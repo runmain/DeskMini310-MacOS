@@ -730,7 +730,7 @@
 			<key>SystemSerialNumber</key>
 			<string>C07DKZYWJYVX</string>
 			<key>SystemUUID</key>
-			<string>7092F40A-452D-497C-9874-FF9ED83512C7</string>
+			<string>YOUR-UUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
